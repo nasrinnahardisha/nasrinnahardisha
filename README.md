@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+(MERN+%26+Next.js);Frontend+UI+Engineer+%7C+TypeScript+Enthusiast;Exploring+PostgreSQL%2C+NestJS+%26+System+Architecture;Always+Learning+%26+Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+(MERN+%26+Next.js);Frontend+UI+Engineer+%7C+TypeScript+Enthusiast;Exploring+PostgreSQL%2C+NestJS+%26+Architecture;Always+Learning+%26+Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,20 +23,20 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 FOLLOW ME ON SOCIALS:
 
 <p align="left">
-  <a href="https://portfolio-ashy-omega-48.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/nasrin-nahar-disha/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/nasrin-nahar-disha/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://portfolio-ashy-omega-48.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="40" height="40" />
   </a>
-  <a href="https://www.facebook.com/shada.golap.7330" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/shada.golap.7330" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:nasrinnahardisha@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 
 #### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
 </p>
 
 #### 🎨 Frontend Frameworks & Libraries
@@ -56,12 +56,12 @@
 
 #### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres" alt="Backend & Database" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb" alt="Backend & Database" />
 </p>
 
 #### 🛠️ Tools, Auth & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vercel,render,postman,figma,vscode,docker" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vercel,render,postman,figma,vscode" alt="Tools" />
 </p>
 
 ---
