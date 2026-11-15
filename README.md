@@ -1,62 +1,168 @@
-<h1 align="center">Hi 👋, I'm Nasrin Nahar</h1> 
-<h3 align="center">Frontend Web Developer — Expert in converting Figma designs into pixel-perfect responsive websites.</h3>
+![Nasrin Nahar Banner](./banner.png)
 
-- 🔭 I’m currently working on [Techure_2](https://techure2.free.nf/?i=1) 
-- 🌱 I’m currently learning **Wordpress theme development** 
-- 👨‍💻 All of my projects are available at [portfolio-ashy-omega-48.vercel.app](https://portfolio-ashy-omega-48.vercel.app/) 
-- 💬 Ask me about **react, wordpress** 
-- 📫 How to reach me **nasrinnahardisha@gmail.com**
+# Hi 👋, I'm Nasrin Nahar
 
-<h3 align="left">Connect with me:</h3>
-<table>
-<tr>
-<td align="center">
-<a href="https://codepen.io/nasrinnahardisha" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" />
-</a>
-</td>
+### 🔭 I build things with JavaScript, React.js, Next.js, and Node.js
 
-<td align="center">
-<a href="https://www.linkedin.com/in/nasrin-nahar-disha/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</td>
+<p align="center">
+  <img src="https://ibb.co.com/cKVpmK8x" />
+</p>
 
-<td align="center">
-<a href="https://fb.com/shada.golap.7330" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-</td>
-</tr>
-</table>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-<tr>
-<td><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a></td>
+## 👨‍💻 About Me
 
-<td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a></td>
+👋 Hi, I'm Nasrin Nahar from Natore, Bangladesh.
 
-<td><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a></td>
+🖥️ I work with React.js, Next.js, JavaScript and TypeScript for frontend development.
 
-<td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a></td>
+🗄️ I use Node.js, Express.js and MongoDB for backend development.
 
-<td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a></td>
+💻 I enjoy building responsive and user-friendly full-stack applications.
 
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td>
+💳 I have worked with Stripe and SSLCommerz payment integration.
 
-<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a></td>
+🔐 Interested in Authentication, REST APIs and secure web applications.
 
-<td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td>
+🌱 I'm currently learning TypeScript and improving my backend development skills.
 
-<td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td>
+🌐 Explore my [Portfolio](https://portfolio-ashy-omega-48.vercel.app/)
 
-<td><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a></td>
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nasrin-nahar-802177332/)
 
-<td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a></td>
+---
 
-<td><a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></a></td>
+## 🛠️ TECHNOLOGY STACK
 
-<td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a></td>
-</tr>
-</table>
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### CSS Frameworks & Libraries
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### JavaScript Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Database & Model
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Deployment Platform
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Design & Graphics
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### Tools & Technologies
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Payment Integration:** Stripe, SSLCommerz
+
+**Authentication:** Firebase Auth, NextAuth, JWT
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 1. Zap Shift
+
+Full-stack Courier Management Application.
+
+- React.js, Node.js, Express.js and MongoDB.
+- JWT Authentication.
+- Stripe Payment Integration.
+- Admin, Rider and User Dashboards.
+- Parcel Tracking System.
+
+🔗 [Live Project](https://zap-shift-4c521.web.app/)
+
+### 2. Car Doctor
+
+Full-stack Car Service Application.
+
+- Next.js and MongoDB.
+- NextAuth Authentication.
+- SSLCommerz Payment Integration.
+
+🔗 [Live Project](https://next-js-car-doc.vercel.app/)
+
+### 3. Prokritir Bazar
+
+Organic Product E-commerce Application.
+
+- React.js and Firebase.
+- MongoDB Database.
+- Cloudinary Image Upload.
+- Product and Category Management.
+
+---
+
+## 🌐 CONNECT WITH ME
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasrinnahardisha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasrin-nahar-802177332/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ashy-omega-48.vercel.app/)
+
+---
+
+## 📊 GITHUB STATISTICS & ANALYSIS
+
+### 🐍 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nasrinnahardisha/nasrinnahardisha/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nasrinnahardisha&show_icons=true&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrinnahardisha&layout=compact&theme=default&hide_border=true" />
+</p>
+
+### 🔥 Repository Stats & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nasrinnahardisha&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 💬 RANDOM DEV QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub Profile!
+</p>
+
+<p align="center">
+  <b>Build • Learn • Grow 🚀</b>
+</p>
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=nasrinnahardisha&style=flat-square&color=brightgreen)
+</p>
