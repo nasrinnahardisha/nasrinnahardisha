@@ -1,5 +1,3 @@
-![Nasrin Nahar Banner](./banner.png)
-
 # Hi 👋, I'm Nasrin Nahar
 
 ### 🔭 I build things with JavaScript, React.js, Next.js, and Node.js
