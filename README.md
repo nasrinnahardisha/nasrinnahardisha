@@ -5,7 +5,7 @@
 ### 🔭 I build things with JavaScript, React.js, Next.js, and Node.js
 
 <p align="center">
-  <img src="https://ibb.co.com/cKVpmK8x" />
+  <img src="https://i.ibb.co.com/Y4wKr4db/disha.jpg" />
 </p>
 
 ---
