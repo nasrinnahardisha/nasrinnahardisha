@@ -100,7 +100,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrinnahardisha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
+### 🐍 GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasrinnahardisha/nasrinnahardisha/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasrinnahardisha/nasrinnahardisha/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nasrinnahardisha/nasrinnahardisha/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### 💡 Random Dev Quote
 
