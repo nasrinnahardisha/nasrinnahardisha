@@ -32,8 +32,8 @@
   <a href="https://portfolio-ashy-omega-48.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="40" height="40" />
   </a>
-  <a href="https://discord.com/users/nasrinnahar_69220" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="40" height="40" />
+  <a href="https://discord.com/users/nasrinnahar_69220" target="_blank" title="Discord: nasrinnahar_69220">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40" />
   </a>
   <a href="mailto:nasrinnahardisha@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
@@ -61,7 +61,7 @@
 
 #### 🛠️ Tools, Auth & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vercel,render,postman,figma,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vercel,postman,figma,vscode" alt="Tools" />
 </p>
 
 ---
