@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="40" height="40" />
   </a>
   <a href="https://discord.com/users/nasrinnahar_69220" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="40" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="40" height="40" />
   </a>
   <a href="mailto:nasrinnahardisha@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
