@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/Y4wKr4db/disha.jpg" alt="nasrinnahardisha" />
+  <img src="https://i.ibb.co/Y4wKr4db/disha.jpg" alt="nasrinnahardisha" />
 </p>
 
 ---
