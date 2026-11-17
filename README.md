@@ -69,12 +69,15 @@
 ### 📊 GitHub Statistics & Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasrinnahardisha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasrinnahardisha&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nasrinnahardisha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrinnahardisha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasrinnahardisha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrinnahardisha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ### 🐍 GitHub Contributions
